@@ -6,6 +6,8 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+In this project we used the nest cli to create a users crud, using mongodb as a database
+
 ## Installation
 
 ```bash
